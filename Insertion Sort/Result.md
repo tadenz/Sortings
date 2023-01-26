@@ -15,7 +15,7 @@ Yukarı verilen dizinin Insertion Sort türüne göre aşamalarını yazınız.
 **Big-O** gösterimini yazınız.
 
 
-    Big-O = O(n)
+    Big-O = O(n^2)
 
 
 
